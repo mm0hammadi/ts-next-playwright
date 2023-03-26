@@ -9,19 +9,9 @@
 
 <br />
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&style=flat-square&color=5e17eb&labelColor=000000" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/github/license/jpedroschmitz/typescript-nextjs-starter?style=flat-square&color=5e17eb&labelColor=000000">
 
-  <a href="https://twitter.com/intent/follow?screen_name=jpedroschmitz">
-    <img src="https://img.shields.io/twitter/follow/jpedroschmitz?style=flat-square&color=5e17eb&labelColor=000000" alt="Follow @jpedroschmitz" />
-  </a>
-</div>
 
-<div align="center">
-  <sub>Created by <a href="https://twitter.com/jpedroschmitz">João Pedro</a> with the help of many <a href="https://github.com/jpedroschmitz/typescript-nextjs-starter/graphs/contributors">wonderful contributors</a>.</sub>
-</div>
 
 <br />
 
@@ -124,6 +114,4 @@ import avatar from '@/public/avatar.png';
 
 This starter uses pnpm by default, but this choice is yours. If you'd like to switch to Yarn/npm, delete the `pnpm-lock.yaml` file, install the dependencies with Yarn/npm, change the CI workflow, and Husky Git hooks to use Yarn/npm commands.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more information.
